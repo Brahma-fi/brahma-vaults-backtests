@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Other extentions
+*.xml
+*.iml
+
 # Distribution / packaging
 .Python
 build/
